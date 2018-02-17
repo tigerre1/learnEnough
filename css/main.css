@@ -1,4 +1,4 @@
- /* GLOBAL STYLES */
+ /* GLOBAL_STYLES */
       html {
         box-shadow: 0 0 0 30px #000 inset;
         padding: 0 30px;
@@ -20,7 +20,7 @@
         max-width: 70%;
         text-align: center;
       }
-      
+
       /* HEADER STYLES */
       .header {
         background-color: #000;
@@ -86,7 +86,7 @@
         position:relative;
         width:100%;
       }
-      
+
 
       /* SOCIAL STYLES */
       .social-link {
@@ -113,8 +113,8 @@
         list-style: none;
         padding: 0;
         text-align: center;
-        
-       
+
+
       }
       .social-list > li {
         display: inline-block;
